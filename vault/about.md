@@ -2,13 +2,19 @@
 id: 7FIYe9gq60KcGHIlDnkGP
 title: About
 desc: ''
-updated: 1655183046157
+updated: 1655184061510
 created: 1637610850873
 ---
 
 ## Sobre mi
 
 Hola, mi nombre es Francisco Sanabria. Trabajo actualmente en IBM como Ingeniero en Sistemas, especialista en el área de cloud. Soy un artista y productor de música. 
+
+**Me gustan los perros, y el té.**
+
+^sobre-mi
+
+Trabajé como ingeniero de soporte en tecnologias EDI y B2B, durante 3 años. Y ahora me especializo en tecnologias de cloud, administración y soporte de servidores y clusters. Tambien me gusta mucho el tema de la observalidad para el monitoreo y analisis de la infraestructura en la nube. Eso que llaman como Cloud Engineer. :p
 
 En este espacio tenemos la posibilidad de equivocarnos, de fallar, de aprender y triunfar. Odio a los humanos, pero este es un espacio en donde todos nos respetamos. Espero poder compartir todo lo que se me ocurra, aquí quiero sentirme libre de hablar de las cosas que me gustan y de mas cosas que me hacen sentir incómodo. Este es un especio donde muy probablemente me vayan a conocer más. 
 

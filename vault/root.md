@@ -1,10 +1,12 @@
 ---
 id: ik5Bi5OCTsmfKfq5JQtEB
-title: Root
+title: Home
 desc: ''
-updated: 1637610830605
+updated: 1655184937274
 created: 1637610830605
 ---
-# Welcome to Dendron
+# Francisco Sanabria
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
+![[about#^sobre-mi]]
+
+Feel free to navigate in my personal digital garden. Any comments, questions or just chat, feel free to contact me. [[contact]]
