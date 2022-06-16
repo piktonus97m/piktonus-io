@@ -2,10 +2,8 @@
 id: skaa2eok4du59rw9a4mpldu
 title: ¿Cómo recordar fácilmente los comandos de Linux?
 desc: ''
-updated: 1655351980020
+updated: 1655352549286
 created: 1655351778574
-categories: 
-- guide
 ---
 
 Author: @Francisco

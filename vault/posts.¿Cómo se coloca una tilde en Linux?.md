@@ -2,10 +2,8 @@
 id: zo0d5grlpor8gkspfbbs9or
 title: ¿Cómo se coloca una tilde en Linux?
 desc: ''
-updated: 1655352158466
+updated: 1655352542049
 created: 1655352043243
-categories:
-- guide
 ---
 
 Author: @Francisco
