@@ -2,15 +2,13 @@
 id: 7FIYe9gq60KcGHIlDnkGP
 title: About
 desc: ''
-updated: 1655184061510
+updated: 1655354632018
 created: 1637610850873
 ---
 
 ## Sobre mi
 
-Hola, mi nombre es Francisco Sanabria. Trabajo actualmente en IBM como Ingeniero en Sistemas, especialista en el área de cloud. Soy un artista y productor de música. 
-
-**Me gustan los perros, y el té.**
+Hola, mi nombre es Francisco Sanabria. Trabajo actualmente en IBM como Ingeniero en Sistemas, especialista en el área de cloud. Soy un artista y productor de música. **Me gustan los perros, y el té.**
 
 ^sobre-mi
 
