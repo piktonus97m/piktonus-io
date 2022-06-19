@@ -2,7 +2,7 @@
 id: 7FIYe9gq60KcGHIlDnkGP
 title: About
 desc: ''
-updated: 1655354632018
+updated: 1655662546261
 created: 1637610850873
 ---
 
@@ -61,7 +61,7 @@ Esta comunidad está llena de personas de distintos gremios; tecnología, agricu
 
 ### About Me
 
-Hi, I'm Francisco Sanabria. I'm currently working at IBM as System engineer, EDI & B2B specialist and IBM Cloud practitioner. I like containers and it's technologies. I'm a visual artist, and music producer.
+Hi, I'm Francisco Sanabria. I'm currently working at IBM as Cloud Engineer. I'm a visual artist, and music producer. ^neceskf8hdbd
 
 In this place we have the freedom to make mistakes, to fail, to learn and to succeed. I hate humans, but this is a space where we respect each other. I hope to be able to share everything that comes to my mind, here I want to feel free to talk about the things I like and the things that make me feel uncomfortable.
 

@@ -94,8 +94,8 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron Netlify Template
-        description: Personal knowledge space
+        title: piktonus.io
+        description: Welcome to my digital garden!
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
