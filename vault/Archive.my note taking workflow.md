@@ -1,6 +1,6 @@
 ---
 id: alc503le9p3wywxdn8xbznv
-title: My Note Taking Workflow
+title: my note taking workflow
 desc: ''
 updated: 1655354565320
 created: 1655354520623
